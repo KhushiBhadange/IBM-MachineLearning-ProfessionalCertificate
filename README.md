@@ -52,11 +52,52 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 ## Course 2 : [Supervised Machine Learning: Regression](https://www.coursera.org/learn/supervised-machine-learning-regression?specialization=ibm-machine-learning)
 
 - [Week 1]
+
+     - [Linear Regression]
+   - [Optional Lab]
+     - [Linear Regression Demo]
+     - [Linear Regression Practice]
+<br/>
+
 - [Week 2]
+
+     - [Training and Test Splits]
+     - [Polynomial Regression]
+   - [Optional Lab]
+     - [Training and Test Splits Demo]
+     - [Polynomial Regression Practice]
+<br/>
+
 - [Week 3]
+
+     - [Cross Validation]
+   - [Optional Lab]
+     - [Cross Validation Demo]
+     - [Cross Validation Practice]
+<br/>
+
 - [Week 4]
+
+     - [Bias Variance Trade Off]
+     - [Regularization and Model Selection]
+     - [Ridge Regression]
+     - [Lasso Regression]
+     - [Elastic Net]
+   - [Optional Lab]
+     - [ Polynomial Featurs and Regularization Demo]
+<br/>
+
 - [Week 5]
+
+     - [Details of Regularization]
+   - [Optional Lab]
+     - [Regularization Demo]
+     - [Regularization Practice]
+<br/>
+
 - [Week 6]
+
+     - [Project]
 <br/>
 
 ## Course 3 : [Supervised Machine Learning: Classification](https://www.coursera.org/learn/supervised-machine-learning-classification?specialization=ibm-machine-learning)
