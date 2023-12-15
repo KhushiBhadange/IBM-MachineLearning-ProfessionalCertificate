@@ -103,11 +103,68 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 ## Course 3 : [Supervised Machine Learning: Classification](https://www.coursera.org/learn/supervised-machine-learning-classification?specialization=ibm-machine-learning)
 
 - [Week 1]
+
+     - [Logistic Regression]
+     - [Confusion Matrix, Accuracy, Specificity, Precision and Recall]
+   - [Optional Lab]
+     - [Logistic Regression Demo]
+     - [Logistic Regression Practice]
+<br/>
+
 - [Week 2]
+
+     - [K Nearest Neighbors]
+   - [Optional Lab]
+     - [K Nearest Neighbors Demo]
+     - [K Nearest Neighbors Practice]
+<br/>
+
 - [Week 3]
+
+     - [Support Vector Machine]
+     - [Support Vector Machines Kernels]
+     - [Support Vector Machine Workflow]
+   - [Optional Lab]
+     - [Support Vector Machine Demo]
+     - [Support Vector Machine Practice]
+<br/>
+
 - [Week 4]
+
+     - [Decision Trees]
+     - [Entropy Based Splitting]
+   - [Optional Lab]
+     - [Decision Trees Demo]
+     - [Decision Trees Practice]
+<br/>
+
 - [Week 5]
+
+     - [Ensemble Based Methods and Bagging]
+     - [Random Forest]
+     - [Boosting]
+     - [Adaboost and Gradient Boosting]
+     - [Stacking]
+   - [Optional Lab]
+     - [Bagging Demo]
+     - [Bagging Practice]
+     - [Boosting and Stacking Demo]
+     - [AdaBoost Practice]
+     - [Stacking Practice]
+     - [Gradient Boosting]
+<br/>
+
 - [Week 6]
+
+     - [Model Interpretability]
+     - [Model Agnostic]
+     - [Surrogate Models]
+     - [Blagging]
+     - [Random and Synthetic Oversampling]
+   - [Optional Lab]
+     - [Model Interpretability Practice]
+     - [Model Imbalanced Classes]
+     - [Project]
 <br/>
 
 ## Course 4 : [Unsupervised Machine Learning](https://www.coursera.org/learn/ibm-unsupervised-machine-learning?specialization=ibm-machine-learning)
