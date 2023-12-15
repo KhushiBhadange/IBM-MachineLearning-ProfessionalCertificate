@@ -9,6 +9,10 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 ## Course 1 : [Exploratory Data Analysis for Machine Learning ](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning?specialization=ibm-machine-learning)
 
 - [Week 1]
+
+     - [Prerequisites]
+     - [Machine Learning and Deep Learning]
+     - [Machine Learning Workflow]
 - [Week 2]
 - [Week 3]
 - [Week 4]
