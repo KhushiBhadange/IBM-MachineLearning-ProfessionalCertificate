@@ -17,10 +17,54 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 
 ## Course 2 : [Supervised Machine Learning: Regression](https://www.coursera.org/learn/supervised-machine-learning-regression?specialization=ibm-machine-learning)
 
+- [Week 1]
+- [Week 2]
+- [Week 3]
+- [Week 4]
+- [Week 5]
+- [Week 6]
+<br/>
+
 ## Course 3 : [Supervised Machine Learning: Classification](https://www.coursera.org/learn/supervised-machine-learning-classification?specialization=ibm-machine-learning)
+
+- [Week 1]
+- [Week 2]
+- [Week 3]
+- [Week 4]
+- [Week 5]
+- [Week 6]
+<br/>
 
 ## Course 4 : [Unsupervised Machine Learning](https://www.coursera.org/learn/ibm-unsupervised-machine-learning?specialization=ibm-machine-learning)
 
+- [Week 1]
+- [Week 2]
+- [Week 3]
+- [Week 4]
+- [Week 5]
+- [Week 6]
+- [Week 7]
+<br/>
+
 ## Course 5 : [Deep Learning and Reinforcement Learning](https://www.coursera.org/learn/deep-learning-reinforcement-learning?specialization=ibm-machine-learning)
 
+- [Week 1]
+- [Week 2]
+- [Week 3]
+- [Week 4]
+- [Week 5]
+- [Week 6]
+- [week 7]
+- [Week 8]
+- [Week 9]
+<br/>
+
 ## Course 6 : [Machine Learning Capstone](https://www.coursera.org/learn/machine-learning-capstone?specialization=ibm-machine-learning)
+
+- [Week 1]
+- [Week 2]
+- [Week 3]
+- [Week 4]
+- [Week 5]
+- [Week 6]
+<br/>
