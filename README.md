@@ -23,6 +23,15 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Data Cleaning Practice]
        
 - [Week 3]
+
+     - [Exploratory Data Analysis]
+     - [Feature Engineering]
+   - [Optional Labs]
+     - [Exploratory Data Analysis Demo]
+     - [Exploratory Data Analysis Practice]
+     - [Feature Engineering Demo]
+     - [Feature Engineering Practice]
+       
 - [Week 4]
 - [Week 5]
 <br/>
