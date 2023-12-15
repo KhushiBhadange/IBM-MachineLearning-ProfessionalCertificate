@@ -19,8 +19,8 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Retrieving Data]
      - [Data Cleaning]
    - [Optional Labs]
-     - [Reading Data]
-     - [Data Cleaning]
+     - [Reading Data Demo]
+     - [Data Cleaning Practice]
        
 - [Week 3]
 - [Week 4]
