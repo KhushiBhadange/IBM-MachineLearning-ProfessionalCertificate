@@ -13,7 +13,15 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Prerequisites]
      - [Machine Learning and Deep Learning]
      - [Machine Learning Workflow]
+       
 - [Week 2]
+
+     - [Retrieving Data]
+     - [Data Cleaning]
+   - [Optional Labs]
+     - [Reading Data]
+     - [Data Cleaning]
+       
 - [Week 3]
 - [Week 4]
 - [Week 5]
