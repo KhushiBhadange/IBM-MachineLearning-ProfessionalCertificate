@@ -8,6 +8,12 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 
 ## Course 1 : [Exploratory Data Analysis for Machine Learning ](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning?specialization=ibm-machine-learning)
 
+- [Week 1]
+- [Week 2]
+- [Week 3]
+- [Week 4]
+- [Week 5]
+<br/>
 ## Course 2 : [Supervised Machine Learning: Regression](https://www.coursera.org/learn/supervised-machine-learning-regression?specialization=ibm-machine-learning)
 
 ## Course 3 : [Supervised Machine Learning: Classification](https://www.coursera.org/learn/supervised-machine-learning-classification?specialization=ibm-machine-learning)
