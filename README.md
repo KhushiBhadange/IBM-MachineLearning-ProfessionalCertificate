@@ -170,12 +170,64 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 ## Course 4 : [Unsupervised Machine Learning](https://www.coursera.org/learn/ibm-unsupervised-machine-learning?specialization=ibm-machine-learning)
 
 - [Week 1]
+
+     - [Unsupervised Machine Learning]
+     - [K Means Clustering]
+   - [Optional Lab]
+     - [K Means Demo]
+     - [K Means Clustering Practice]
+     - [Mixture of Gaussians Demo]
+     - [Mixture of Gaussians Practice]
+<br/>
+
 - [Week 2]
+
+     - [Distance Metrics and Computational Hurdles]
+   - [Optional Lab]
+     - [Distance Metrics Practice]
+     - [Curse of Dimensionality Demo]
+<br/>
+
 - [Week 3]
+
+     - [Hierarchical Agglomerative Clustering]
+     - [DBSCAN]
+   - [Optional Lab]
+     - [DBSCAN Practice]
+     - [Mean Shift Clustering Practice]
+     - [Clustering Demo]
+<br/>
+
 - [Week 4]
+
+     - [Dimensionality Reduction]
+   - [Optional Lab]
+     - [Matrix Review Demo]
+     - [Dimensionality Reduction Demo]
+     - [Principal Component Analysis Practice]
+     - [Singular Value Decomposition Demo]
+<br/>
+
 - [Week 5]
+
+     - [Kernel Principal Component Analysis and Multidimensional Scaling]
+   - [Optional Lab]
+     - [Dimensionality Reduction Demo]
+     - [Kernel PCA Practice]
+     - [Multidimensional Scaling]
+<br/>
+
 - [Week 6]
+
+     - [Matix Factorization]
+   - [Optional Lab]
+     - [TF-IDF supplemental Demo]
+     - [Non Negative Matrix Factorization Practice]
+<br/>
+
 - [Week 7]
+
+     - [Project]
 <br/>
 
 ## Course 5 : [Deep Learning and Reinforcement Learning](https://www.coursera.org/learn/deep-learning-reinforcement-learning?specialization=ibm-machine-learning)
