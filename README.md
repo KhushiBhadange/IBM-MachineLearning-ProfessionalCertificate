@@ -13,7 +13,8 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Prerequisites]
      - [Machine Learning and Deep Learning]
      - [Machine Learning Workflow]
-       
+<br/>
+
 - [Week 2]
 
      - [Retrieving Data]
@@ -21,7 +22,8 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
    - [Optional Labs]
      - [Reading Data Demo]
      - [Data Cleaning Practice]
-       
+<br/>
+
 - [Week 3]
 
      - [Exploratory Data Analysis]
@@ -31,9 +33,20 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Exploratory Data Analysis Practice]
      - [Feature Engineering Demo]
      - [Feature Engineering Practice]
-       
+<br/>
+
 - [Week 4]
+
+     - [Estimation and Inference]
+     - [Hypothesis Testing]
+   - [Optional Labs]
+     - [Hypothesis Testing Demo]
+     - [Hypothesis Testing Practice]
+<br/>
+
 - [Week 5]
+
+     - [Project]
 <br/>
 
 ## Course 2 : [Supervised Machine Learning: Regression](https://www.coursera.org/learn/supervised-machine-learning-regression?specialization=ibm-machine-learning)
