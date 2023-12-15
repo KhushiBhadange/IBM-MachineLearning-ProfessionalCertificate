@@ -328,9 +328,38 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 ## Course 6 : [Machine Learning Capstone](https://www.coursera.org/learn/machine-learning-capstone?specialization=ibm-machine-learning)
 
 - [Week 1]
+
+     - [Recommender Systems]
+<br/>
+
 - [Week 2]
+
+     - [EDA and Feature Engineering]
+   - [Optional Lab]
+     - [Extract Bags of Words Features Demo]
+     - [Calculate course similarity using BoW]
+<br/>
+
 - [Week 3]
+
+     - [Content Based Recommender System]
+     - [Clustering Based Recommender System]
+<br/>
+
 - [Week 4]
+
+    - [Collaborative Filtering Based Recommender system using K Nearest Neighbor]
+    - [Collaborative Filtering Based Recommender system using non negative matirx Factorization]
+    - [Regression Based Rating Score Prediction Using Embedding Features]
+    - [Classification Based Rating Mode Prediction Using Embedding Features]
+<br/>
+
 - [Week 5]
+
+    - [Deploy Model]
+<br/>
+
 - [Week 6]
+
+    - [Project]
 <br/>
