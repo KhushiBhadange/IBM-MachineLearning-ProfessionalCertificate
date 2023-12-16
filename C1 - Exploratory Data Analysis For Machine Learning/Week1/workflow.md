@@ -86,7 +86,6 @@ The variables are :
 How does your company expact to use and benfit from your model.
 <a id="7"></a> <br>
 # 4- Inputs & Outputs
-<a id="8"></a> <br>
 ### 4-1 Inputs
 **Iris** is a very popular **classification** and **clustering** problem in machine learning and it is such as "Hello world" program when you start learning a new programming language. then I decided to apply Iris on  20 machine learning method on it.
 The Iris flower data set or Fisher's Iris data set is a **multivariate data set** introduced by the British statistician and biologist Ronald Fisher in his 1936 paper The use of multiple measurements in taxonomic problems as an example of linear discriminant analysis. It is sometimes called Anderson's Iris data set because Edgar Anderson collected the data to quantify the morphologic variation of Iris flowers in three related species. Two of the three species were collected in the Gaspé Peninsula "all from the same pasture, and picked on the same day and measured at the same time by the same person with the same apparatus".
@@ -104,6 +103,8 @@ the outputs can be the number of clusters or predict for new input.
 **versicolour**: Iris versicolour, true or false, used as target.
 **virginica**: Iris virginica, true or false, used as a target.
 <a id="10"></a> <br>
+
+
 # 5-Installation
 #### Windows:
 * Anaconda (from https://www.continuum.io) is a free Python distribution for SciPy stack. It is also available for Linux and Mac.
@@ -116,6 +117,7 @@ For Ubuntu Users:
 sudo apt-get install python-numpy python-scipy python-matplotlibipythonipythonnotebook
 python-pandas python-sympy python-nose
 <a id="11"></a> <br>
+
 ## 5-1 Jupyter notebook
 I strongly recommend installing **Python** and **Jupyter** using the **[Anaconda Distribution](https://www.anaconda.com/download/)**, which includes Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science.
 
@@ -125,7 +127,8 @@ Second, install the version of Anaconda which you downloaded, following the inst
 
 Congratulations, you have installed Jupyter Notebook! To run the notebook, run the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):
 <a id="15"></a> <br>
-## 5-5 Loading Packages
+
+## 5-2 Loading Packages
 
 In this kernel we are using the following packages:
 
