@@ -20,8 +20,8 @@ most of these books share the following steps (checklist):
 
 **you should	feel free	to	adapt 	this	checklist 	to	your needs**
 <br/>
-## 2-1 Real world Application Vs Competitions
-<img src="http://s9.picofile.com/file/8339956300/reallife.png" height="400" width="300" />
+# 2- Real world Application Vs Competitions
+<img src="http://s9.picofile.com/file/8339956300/reallife.png" height="300" width="300" />
 <a id="3"></a> <br>
 # 3- Problem Definition
 I think one of the important things when you start a new machine learning project is Defining your problem. that means you should understand business problem.( **Problem Formalization**)
