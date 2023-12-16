@@ -110,7 +110,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 
 - [Week 2](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%202)
 
-     - [K Nearest Neighbors]
+     - [K Nearest Neighbors](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%202/KNN.pdf)
    - [Optional Lab]
      - [K Nearest Neighbors Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%202/03b_LAB_KNN.ipynb)
      - [K Nearest Neighbors Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%202/lab_jupyter_knn.ipynb)
@@ -118,9 +118,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 
 - [Week 3](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%203)
 
-     - [Support Vector Machine]
-     - [Support Vector Machines Kernels]
-     - [Support Vector Machine Workflow]
+     - [Support Vector Machine](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%203/svm.pdf)
    - [Optional Lab]
      - [Support Vector Machine Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%203/03c_DEMO_SVM.ipynb)
      - [Support Vector Machine Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%203/lab_jupyter_svm.ipynb)
@@ -128,8 +126,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 
 - [Week 4](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%204)
 
-     - [Decision Trees]
-     - [Entropy Based Splitting]
+     - [Decision Trees](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%204/Decision%20Tree.pdf)
    - [Optional Lab]
      - [Decision Trees Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%204/03d/03d_LAB_Decision_Trees.ipynb)
      - [Decision Trees Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%204/lab_jupyter_decisiontree.ipynb)
