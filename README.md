@@ -76,18 +76,17 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 
 - [Week 4](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%204)
 
-     - [Bias Variance Trade Off]
-     - [Regularization and Model Selection]
-     - [Ridge Regression]
-     - [Lasso Regression]
-     - [Elastic Net]
+     - [Bias Variance Trade Off](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%204/Bias_Variance_Tradeoff.pdf)
+     - [Ridge Regression](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%204/Ridge_Regression.pdf)
+     - [Lasso Regression](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%204/Lasso%20Regression.pdf)
+     - [Elastic Net](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%204/ElasticNetRegressionandEmpiricalModeDecompositionforEnhancingtheAccuracyoftheModelSelection.pdf)
    - [Optional Lab]
      - [ Polynomial Featurs and Regularization Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%204/02d_DEMO_Regularization.ipynb)
 <br/>
 
 - [Week 5](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%205)
 
-     - [Details of Regularization]
+     - [Details of Regularization](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%205/Regularization%20in%20detail.pdf)
    - [Optional Lab]
      - [Regularization Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%205/02e_LAB_Regularization.ipynb)
      - [Regularization Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%205/Regularization_Techniques.ipynb)
@@ -102,8 +101,8 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 
 - [Week 1](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%201)
 
-     - [Logistic Regression]
-     - [Confusion Matrix, Accuracy, Specificity, Precision and Recall]
+     - [Logistic Regression](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%201/Regression-LogisticRegression.pdf)
+     - [Confusion Matrix, Accuracy, Specificity, Precision and Recall](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%201/evaluation_metrics.pdf)
    - [Optional Lab]
      - [Logistic Regression Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%201/03a/03a_LAB_Logistic_Regression_Error_Metrics.ipynb)
      - [Logistic Regression Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%201/lab_jupyter_logistic_regression.ipynb)
