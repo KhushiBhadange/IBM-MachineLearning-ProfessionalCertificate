@@ -2,15 +2,6 @@
 This is a **comprehensive ML techniques with python** , that I have spent for more than two months to complete it.
 
 I think it is a great opportunity for who want to learn machine learning workflow with python completely.
-I have covered most of the methods that are implemented for iris until **2018**, you can start to learn and review your knowledge about ML with a simple dataset and try to learn and memorize the workflow for your journey in Data science world.
-
-I am open to getting your feedback for improving this
-<a id="2"></a> <br>
-# 2- Machine Learning Workflow
-Field of 	study 	that 	gives	computers	the	ability 	to	learn 	without 	being
-explicitly 	programmed.
-
-Arthur	Samuel, 1959
 
 If you have already read some [machine learning books](https://towardsdatascience.com/list-of-free-must-read-machine-learning-books-89576749d2ff). You have noticed that there are different ways to stream data into machine learning.
 
