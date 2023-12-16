@@ -191,7 +191,6 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 - [Week 3]
 
      - [Hierarchical Agglomerative Clustering](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%203/Agglomerative-hierarchical-clustering.md)
-     - [DBSCAN]
    - [Optional Lab]
      - [DBSCAN Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%203/DBSCAN.ipynb)
      - [Mean Shift Clustering Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%203/Mean_Shift_Clustering_v2.ipynb)
