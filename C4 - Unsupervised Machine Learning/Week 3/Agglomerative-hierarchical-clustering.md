@@ -56,7 +56,7 @@ plane](http://en.wikipedia.org/wiki/Euclidean_plane).
 
 After running the clustering algorithm, we get the following hierarchy:
 
-![Example agglomerative hierarchical clustering]([ahc.png](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/ahc.png)https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/ahc.png)
+![Example agglomerative hierarchical clustering](ahc.png)
 
 The cluster hierarchy may be represented by the binary tree:
 
