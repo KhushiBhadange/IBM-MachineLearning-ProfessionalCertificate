@@ -147,4 +147,4 @@ Precalculus, Differential Calculus, Integral Calculus, Multivariate Calculus
 Course: https://www.khanacademy.org/math/calculus-home
 
 ---
-This collection is far from exhaustive but it should provide a good foundation to start learning some of the mathematical concepts used in machine learning. Reach out on [Twitter](https://twitter.com/omarsar0) if you have any questions.
+This collection is far from exhaustive but it should provide a good foundation to start learning some of the mathematical concepts used in machine learning. Reach out on [LinkedIn](www.linkedin.com/in/khushibhadange) if you have any questions.
