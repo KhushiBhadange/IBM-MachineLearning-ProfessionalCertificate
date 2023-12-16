@@ -23,10 +23,11 @@ most of these books share the following steps (checklist):
 # 2- Real world Application Vs Competitions
 <img src="http://s9.picofile.com/file/8339956300/reallife.png" height="300" width="300" />
 <a id="3"></a> <br>
-# 3- Problem Definition
-I think one of the important things when you start a new machine learning project is Defining your problem. that means you should understand business problem.( **Problem Formalization**)
 
-Problem Definition has four steps that have illustrated in the picture below:
+# 3- Problem Definition
+I think one of the important things when you start a new machine learning project is Defining your problem. That means you should understand business problem.( **Problem Formalization**)
+
+Problem Definition has four steps that have illustrated in the picture below: <br>
 <img src="http://s8.picofile.com/file/8338227734/ProblemDefination.png">
 <a id="4"></a> <br>
 ### 3-1 Problem Feature
