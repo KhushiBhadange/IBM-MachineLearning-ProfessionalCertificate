@@ -11,14 +11,12 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 - [Week 1](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week1)
 
      - [Prerequisites](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week1/Prerequisites.md)
-     - [Machine Learning and Deep Learning]
-     - [Machine Learning Workflow]
+     - [Machine Learning Workflow](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week1/workflow.md)
 <br/>
 
-- [Week 2]
+- [Week 2](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%202)
 
-     - [Retrieving Data]
-     - [Data Cleaning]
+     - [Retrieving and Cleaning Data]
    - [Optional Labs]
      - [Reading Data Demo1](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%202/01a/01a_DEMO_Reading_Data.ipynb)
      - [Reading Data Demo2](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%202/01b/01b_LAB_Reading_Data.ipynb)
