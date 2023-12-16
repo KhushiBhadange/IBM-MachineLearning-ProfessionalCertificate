@@ -56,8 +56,8 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 
      - [Linear Regression]
    - [Optional Lab]
-     - [Linear Regression Demo]
-     - [Linear Regression Practice]
+     - [Linear Regression Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%201/linear%20regression.ipynb)
+     - [Transformations](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%201/02a_LAB_Transforming_Target.ipynb)
 <br/>
 
 - [Week 2]
@@ -65,16 +65,16 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Training and Test Splits]
      - [Polynomial Regression]
    - [Optional Lab]
-     - [Training and Test Splits Demo]
-     - [Polynomial Regression Practice]
+     - [Training and Test Splits Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%202/02b_LAB_Regression_Train_Test_Split.ipynb)
+     - [Polynomial Regression Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%202/Polynomial_Regression.ipynb)
 <br/>
 
 - [Week 3]
 
      - [Cross Validation]
    - [Optional Lab]
-     - [Cross Validation Demo]
-     - [Cross Validation Practice]
+     - [Cross Validation Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%203/02c_DEMO_Cross_Validation.ipynb)
+     - [Cross Validation Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%203/Cross_Validation.ipynb)
 <br/>
 
 - [Week 4]
@@ -85,15 +85,15 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Lasso Regression]
      - [Elastic Net]
    - [Optional Lab]
-     - [ Polynomial Featurs and Regularization Demo]
+     - [ Polynomial Featurs and Regularization Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%204/02d_DEMO_Regularization.ipynb)
 <br/>
 
 - [Week 5]
 
      - [Details of Regularization]
    - [Optional Lab]
-     - [Regularization Demo]
-     - [Regularization Practice]
+     - [Regularization Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%205/02e_LAB_Regularization.ipynb)
+     - [Regularization Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%205/Regularization_Techniques.ipynb)
 <br/>
 
 - [Week 6]
