@@ -150,6 +150,7 @@ By the end of the section, you'll be able to answer these questions and more, wh
 *   5-3 Data Preprocessing
 *   5-4 Data Cleaning
 <img src="http://s9.picofile.com/file/8338476134/EDA.png">
+
 <a id="17"></a> <br>
 ## 6-1 Data Collection
 **Data collection** is the process of gathering and measuring data, information or any variables of interest in a standardized and established manner that enables the collector to answer or test hypothesis and evaluate outcomes of the particular collection.[techopedia]
