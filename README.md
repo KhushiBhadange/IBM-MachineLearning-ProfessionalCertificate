@@ -41,8 +41,8 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Estimation and Inference]
      - [Hypothesis Testing]
    - [Optional Labs]
-     - [Hypothesis Testing Demo]
-     - [Hypothesis Testing Practice]
+     - [Hypothesis Testing Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%204/01e/01e_DEMO_Hypothesis_Testing.ipynb)
+     - [Hypothesis Testing Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%204/HypothesisTesting_Lab.ipynb)
 <br/>
 
 - [Week 5]
