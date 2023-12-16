@@ -16,7 +16,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 
 - [Week 2](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%202)
 
-     - [Retrieving and Cleaning Data]
+     - [Retrieving and Cleaning Data](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%202/Getting_and_Cleaning_Data_Course_Notes.pdf)
    - [Optional Labs]
      - [Reading Data Demo1](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%202/01a/01a_DEMO_Reading_Data.ipynb)
      - [Reading Data Demo2](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%202/01b/01b_LAB_Reading_Data.ipynb)
