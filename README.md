@@ -175,18 +175,17 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Unsupervised Machine Learning]
      - [K Means Clustering]
    - [Optional Lab]
-     - [K Means Demo]
-     - [K Means Clustering Practice]
-     - [Mixture of Gaussians Demo]
-     - [Mixture of Gaussians Practice]
+     - [K Means Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%201/04a_LAB_KMeansClustering.ipynb)
+     - [K Means Clustering Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%201/KMeansClustering.ipynb)
+     - [Mixture of Gaussians](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%201/GMM_v2.ipynb)
 <br/>
 
 - [Week 2]
 
      - [Distance Metrics and Computational Hurdles]
    - [Optional Lab]
-     - [Distance Metrics Practice]
-     - [Curse of Dimensionality Demo]
+     - [Distance Metrics Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%202/DistanceMetrics.ipynb)
+     - [Curse of Dimensionality Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%202/04b_DEMO_Distance_Dimensionality.ipynb)
 <br/>
 
 - [Week 3]
@@ -194,36 +193,37 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Hierarchical Agglomerative Clustering]
      - [DBSCAN]
    - [Optional Lab]
-     - [DBSCAN Practice]
-     - [Mean Shift Clustering Practice]
-     - [Clustering Demo]
+     - [DBSCAN Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%203/DBSCAN.ipynb)
+     - [Mean Shift Clustering Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%203/Mean_Shift_Clustering_v2.ipynb)
+     - [Clustering Methods](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%203/04c_LAB_Clustering_Methods.ipynb)
 <br/>
 
 - [Week 4]
 
      - [Dimensionality Reduction]
    - [Optional Lab]
-     - [Matrix Review Demo]
-     - [Dimensionality Reduction Demo]
-     - [Principal Component Analysis Practice]
-     - [Singular Value Decomposition Demo]
+     - [Matrix Review Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%204/Matrix_Review.ipynb)
+     - [Dimensionality Reduction Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%204/04d_DEMO_Dimensionality_Reduction.ipynb)
+     - [Principal Component Analysis Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%204/PCA.ipynb)
+     - [Singular Value Decomposition Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%204/SVD.ipynb)
 <br/>
 
 - [Week 5]
 
      - [Kernel Principal Component Analysis and Multidimensional Scaling]
    - [Optional Lab]
-     - [Dimensionality Reduction Demo]
-     - [Kernel PCA Practice]
-     - [Multidimensional Scaling]
+     - [Dimensionality Reduction Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%205/04d_DEMO_Dimensionality_Reduction.ipynb)
+     - [Kernel PCA Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%205/KernelPCA.ipynb)
+     - [Multidimensional Scaling](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%205/Multi-Dimensional_Scaling.ipynb)
 <br/>
 
 - [Week 6]
 
      - [Matix Factorization]
    - [Optional Lab]
-     - [TF-IDF supplemental Demo]
-     - [Non Negative Matrix Factorization Practice]
+     - [TF-IDF supplemental Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%206/tfidf-lab.jupyterlite.ipynb)
+     - [Non Negative Matrix Factorization Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%206/04e_DEMO_nmf.ipynb)
+     - [Non Negative Matrix Factorization Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%206/Non-Negative_Matrix_Factorization.ipynb)
 <br/>
 
 - [Week 7]
