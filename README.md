@@ -25,8 +25,8 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 
 - [Week 3]
 
-     - [Exploratory Data Analysis]
-     - [Feature Engineering]
+     - [Exploratory Data Analysis](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%203/KomorowskiEDA2016.pdf)
+     - [Feature Engineering](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%203/featureengineeringformachinelearning_1ed.pdf)
    - [Optional Labs]
      - [Exploratory Data Analysis Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%203/01c/01c_LAB_EDA.ipynb)
      - [Exploratory Data Analysis Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%203/EDA_Lab.ipynb)
