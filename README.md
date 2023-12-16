@@ -34,10 +34,9 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Feature Engineering Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%203/Feature_Engineering_Lab.ipynb)
 <br/>
 
-- [Week 4]
+- [Week 4](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%204)
 
-     - [Estimation and Inference]
-     - [Hypothesis Testing]
+     - [Hypothesis Testing](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%204/Hypothesis%20testing.pdf)
    - [Optional Labs]
      - [Hypothesis Testing Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%204/01e/01e_DEMO_Hypothesis_Testing.ipynb)
      - [Hypothesis Testing Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%204/HypothesisTesting_Lab.ipynb)
@@ -50,24 +49,24 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 
 ## Course 2 : [Supervised Machine Learning: Regression](https://www.coursera.org/learn/supervised-machine-learning-regression?specialization=ibm-machine-learning)
 
-- [Week 1]
+- [Week 1](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%201)
 
-     - [Linear Regression]
+     - [Linear Regression](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%201/Chapter2-Regression-SimpleLinearRegressionAnalysis.pdf)
    - [Optional Lab]
      - [Linear Regression Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%201/linear%20regression.ipynb)
      - [Transformations](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%201/02a_LAB_Transforming_Target.ipynb)
 <br/>
 
-- [Week 2]
+- [Week 2](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%202)
 
      - [Training and Test Splits]
-     - [Polynomial Regression]
+     - [Polynomial Regression](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%202/Chapter12-Regression-PolynomialRegression.pdf)
    - [Optional Lab]
      - [Training and Test Splits Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%202/02b_LAB_Regression_Train_Test_Split.ipynb)
      - [Polynomial Regression Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%202/Polynomial_Regression.ipynb)
 <br/>
 
-- [Week 3]
+- [Week 3](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%203)
 
      - [Cross Validation]
    - [Optional Lab]
@@ -75,7 +74,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Cross Validation Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%203/Cross_Validation.ipynb)
 <br/>
 
-- [Week 4]
+- [Week 4](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%204)
 
      - [Bias Variance Trade Off]
      - [Regularization and Model Selection]
@@ -86,7 +85,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [ Polynomial Featurs and Regularization Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%204/02d_DEMO_Regularization.ipynb)
 <br/>
 
-- [Week 5]
+- [Week 5](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%205)
 
      - [Details of Regularization]
    - [Optional Lab]
@@ -101,7 +100,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 
 ## Course 3 : [Supervised Machine Learning: Classification](https://www.coursera.org/learn/supervised-machine-learning-classification?specialization=ibm-machine-learning)
 
-- [Week 1]
+- [Week 1](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%201)
 
      - [Logistic Regression]
      - [Confusion Matrix, Accuracy, Specificity, Precision and Recall]
@@ -110,7 +109,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Logistic Regression Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%201/lab_jupyter_logistic_regression.ipynb)
 <br/>
 
-- [Week 2]
+- [Week 2](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%202)
 
      - [K Nearest Neighbors]
    - [Optional Lab]
@@ -118,7 +117,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [K Nearest Neighbors Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%202/lab_jupyter_knn.ipynb)
 <br/>
 
-- [Week 3]
+- [Week 3](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%203)
 
      - [Support Vector Machine]
      - [Support Vector Machines Kernels]
@@ -128,7 +127,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Support Vector Machine Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%203/lab_jupyter_svm.ipynb)
 <br/>
 
-- [Week 4]
+- [Week 4](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%204)
 
      - [Decision Trees]
      - [Entropy Based Splitting]
@@ -137,7 +136,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Decision Trees Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%204/lab_jupyter_decisiontree.ipynb)
 <br/>
 
-- [Week 5]
+- [Week 5](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%205)
 
      - [Ensemble Based Methods and Bagging]
      - [Random Forest]
@@ -153,7 +152,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Gradient Boosting](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%205/Gradient_Boosting.ipynb)
 <br/>
 
-- [Week 6]
+- [Week 6](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%206)
 
      - [Model Interpretability]
      - [Model Agnostic]
@@ -168,7 +167,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 
 ## Course 4 : [Unsupervised Machine Learning](https://www.coursera.org/learn/ibm-unsupervised-machine-learning?specialization=ibm-machine-learning)
 
-- [Week 1]
+- [Week 1](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%201)
 
      - [Unsupervised Machine Learning]
      - [K Means Clustering]
@@ -178,7 +177,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Mixture of Gaussians](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%201/GMM_v2.ipynb)
 <br/>
 
-- [Week 2]
+- [Week 2](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%202)
 
      - [Distance Metrics and Computational Hurdles]
    - [Optional Lab]
@@ -186,7 +185,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Curse of Dimensionality Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%202/04b_DEMO_Distance_Dimensionality.ipynb)
 <br/>
 
-- [Week 3]
+- [Week 3](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%203)
 
      - [Hierarchical Agglomerative Clustering](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%203/Agglomerative-hierarchical-clustering.md)
    - [Optional Lab]
@@ -195,7 +194,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Clustering Methods](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%203/04c_LAB_Clustering_Methods.ipynb)
 <br/>
 
-- [Week 4]
+- [Week 4](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%204)
 
      - [Dimensionality Reduction]
    - [Optional Lab]
@@ -205,7 +204,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Singular Value Decomposition Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%204/SVD.ipynb)
 <br/>
 
-- [Week 5]
+- [Week 5](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%205)
 
      - [Kernel Principal Component Analysis and Multidimensional Scaling]
    - [Optional Lab]
@@ -214,7 +213,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Multidimensional Scaling](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%205/Multi-Dimensional_Scaling.ipynb)
 <br/>
 
-- [Week 6]
+- [Week 6](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C4%20-%20Unsupervised%20Machine%20Learning/Week%206)
 
      - [Matix Factorization]
    - [Optional Lab]
@@ -230,7 +229,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 
 ## Course 5 : [Deep Learning and Reinforcement Learning](https://www.coursera.org/learn/deep-learning-reinforcement-learning?specialization=ibm-machine-learning)
 
-- [Week 1]
+- [Week 1](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%201)
 
      - [Neural Network]
      - [Optimization and Gradient Descent]
@@ -240,7 +239,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Gradient Descent Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%201/05a_DEMO_Gradient_Descent.ipynb)
 <br/>
 
-- [Week 2]
+- [Week 2](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%202)
 
      - [Backpropagation and Activation Function]
      - [Keras Library]
@@ -251,7 +250,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Loading Images with Keras Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%202/LoadingImages.ipynb)
 <br/>
 
-- [Week 3]
+- [Week 3](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%203)
 
      - [Optimizers and Data Shuffling]
    - [Optional Lab]
@@ -259,7 +258,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Optimizers Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%203/lab_jupyter_optimizers.ipynb)
 <br/>
 
-- [Week 4]
+- [Week 4](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%204)
 
      - [Convolutional Neural Networks]
    - [Optional Lab]
@@ -271,7 +270,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Convolutional Neural Network Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%204/05e_DEMO_CNN.ipynb)
 <br/>
 
-- [Week 5]
+- [Week 5](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%205)
 
      - [Transfer Learning]
      - [CNN Architectures]
@@ -283,7 +282,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Regularization Techniques](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%205/Regularization_techniques.ipynb)
 <br/>
 
-- [Week 6]
+- [Week 6](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%206)
 
      - [Recurrent Neural Network]
      - [LSTM Networks]
@@ -295,7 +294,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Types of Sequential Data](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%206/types-of-sequential-data.ipynb)
 <br/>
 
-- [week 7]
+- [week 7](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%207)
 
      - [Autoencoders]
    - [Optional Lab]
@@ -303,7 +302,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Autoencoders Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%207/Autoencoders.ipynb)
 <br/>
 
-- [Week 8]
+- [Week 8](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%208)
 
      - [Variational Autoencoders]
      - [Generative Adversarial Networks]
@@ -314,7 +313,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [GPU with Keras](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%208/lab_GPU_keras.ipynb)
 <br/>
 
-- [Week 9]
+- [Week 9](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%209)
 
      - [Reinforcement Learning]
    - [Optional Lab]
@@ -329,7 +328,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Recommender Systems]
 <br/>
 
-- [Week 2]
+- [Week 2](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C6%20-%20Machine%20Learning%20Capstone/Week%202)
 
      - [EDA and Feature Engineering]
    - [Optional Lab]
@@ -337,13 +336,13 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Calculate course similarity using BoW](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C6%20-%20Machine%20Learning%20Capstone/Week%202/lab_jupyter_fe_course_sim_solution.ipynb)
 <br/>
 
-- [Week 3]
+- [Week 3](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C6%20-%20Machine%20Learning%20Capstone/Week%203)
 
      - [Content Based Recommender System]
      - [Clustering Based Recommender System]
 <br/>
 
-- [Week 4]
+- [Week 4](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C6%20-%20Machine%20Learning%20Capstone/Week%204)
 
     - [Collaborative Filtering Based Recommender system using K Nearest Neighbor]
     - [Collaborative Filtering Based Recommender system using non negative matirx Factorization]
