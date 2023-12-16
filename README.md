@@ -238,9 +238,9 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Neural Network]
      - [Optimization and Gradient Descent]
    - [Optional Lab]
-     - [Neural Network with Sklearn Demo]
-     - [Introduction to Neural Networks Demo]
-     - [Gradient Descent Demo]
+     - [Neural Network with Sklearn Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%201/NN_with_Sklearn.ipynb)
+     - [Introduction to Neural Networks Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%201/05b_LAB_Intro_NN.ipynb)
+     - [Gradient Descent Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%201/05a_DEMO_Gradient_Descent.ipynb)
 <br/>
 
 - [Week 2]
@@ -248,31 +248,30 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Backpropagation and Activation Function]
      - [Keras Library]
    - [Optional Lab]
-     - [Backpropagation Demo]
-     - [Keras Demo]
-     - [Regression with Keras Demo]
-     - [Loading Images with Keras Demo]
+     - [Backpropagation Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%202/05c_DEMO_Backpropagation.ipynb)
+     - [Keras Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%202/05d_LAB_Keras_Intro.ipynb)
+     - [Regression with Keras Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%202/regression-Keras.ipynb)
+     - [Loading Images with Keras Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%202/LoadingImages.ipynb)
 <br/>
 
 - [Week 3]
 
      - [Optimizers and Data Shuffling]
    - [Optional Lab]
-     - [Learning Rate Scheduler Reading]
-     - [Optimizers Demo]
-     - [Grid Search with Keras Demo]
+     - [Hyperparameter Optimization for Keras](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%203/lab_paramopt_keras.ipynb)
+     - [Optimizers Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%203/lab_jupyter_optimizers.ipynb)
 <br/>
 
 - [Week 4]
 
      - [Convolutional Neural Networks]
    - [Optional Lab]
-     - [Categorical Cross Entropy]
-     - [Images Convolution Demo]
-     - [Padding, Pooling and Stride Demo]
-     - [Channels and Flattening Demo]
-     - [Training the network Demo]
-     - [Convolutional Neural Network Demo]
+     - [Categorical Cross Entropy](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%204/CategoricalCrossEntropy.ipynb)
+     - [Images Convolution Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%204/image_convolution_lab.ipynb)
+     - [Padding, Pooling and Stride Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%204/Pad_Stride_Pool_Act.ipynb)
+     - [Channels and Flattening Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%204/BuildingCNN_Filters_Layers_Flattening_and_Receptive_Field.ipynb)
+     - [Training the network Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%204/tying_everything_together_lab.ipynb)
+     - [Convolutional Neural Network Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%204/05e_DEMO_CNN.ipynb)
 <br/>
 
 - [Week 5]
@@ -281,11 +280,10 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [CNN Architectures]
      - [Regularization]
    - [Optional Lab]
-     - [Transfer Learning Demo]
-     - [Types of Model APIs in Keras Demo]
-     - [Transfer Learning Examples with Existing Architectures]
-     - [Regularization Reading]
-     - [Regularization Techniques Demo]
+     - [Transfer Learning Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%205/05f_DEMO_Transfer_Learning.ipynb)
+     - [Types of Model APIs in Keras Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%205/introduction_to_models_in_keras.ipynb)
+     - [Transfer Learning Examples with Existing Architectures](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%205/TransferLearningExampleLab.ipynb)
+     - [Regularization Techniques](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%205/Regularization_techniques.ipynb)
 <br/>
 
 - [Week 6]
@@ -293,18 +291,19 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Recurrent Neural Network]
      - [LSTM Networks]
    - [Optional Lab]
-     - [Existing RNN Demo]
-     - [Word Embeddings]
-     - [Recurrent NN Demo]
-     - [LSTM and GRU Demo]
+     - [Existing RNN Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%206/pre-trained-RNNs.ipynb)
+     - [Word Embeddings](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%206/Embeddings.ipynb)
+     - [Recurrent NN Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%206/05g_DEMO_RNN.ipynb)
+     - [LSTM and GRU Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%206/LSTM_GRU_demo.ipynb)
+     - [Types of Sequential Data](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%206/types-of-sequential-data.ipynb)
 <br/>
 
 - [week 7]
 
      - [Autoencoders]
    - [Optional Lab]
-     - [Transposed Convolution Reading]
-     - [Autoencoders Demo]
+     - [Autoencoders Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%207/05h_LAB_Autoencoders.ipynb)
+     - [Autoencoders Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%207/Autoencoders.ipynb)
 <br/>
 
 - [Week 8]
@@ -312,17 +311,17 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Variational Autoencoders]
      - [Generative Adversarial Networks]
    - [Optional Lab]
-     - [variational Autoencoder Demo]
-     - [GANS LAB1]
-     - [GANS LAB2]
-     - [GPU with Keras]
+     - [variational Autoencoder Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%208/Variational_Autoencoders.ipynb)
+     - [GANS LAB1](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%208/GANS_lab1.ipynb)
+     - [GANS LAB2](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%208/GANsPart2.ipynb)
+     - [GPU with Keras](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%208/lab_GPU_keras.ipynb)
 <br/>
 
 - [Week 9]
 
      - [Reinforcement Learning]
    - [Optional Lab]
-     - [Reinforcement Learning Demo]
+     - [Reinforcement Learning Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C5%20-%20Deep%20Learning%20and%20Reinforcement%20Learning/Week%209/05i_DEMO_Reinforcement.ipynb)
      - [Project]
 <br/>
 
@@ -337,8 +336,8 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 
      - [EDA and Feature Engineering]
    - [Optional Lab]
-     - [Extract Bags of Words Features Demo]
-     - [Calculate course similarity using BoW]
+     - [Extract Bags of Words Features Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C6%20-%20Machine%20Learning%20Capstone/Week%202/lab_jupyter_fe_bow_solution.ipynb)
+     - [Calculate course similarity using BoW](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C6%20-%20Machine%20Learning%20Capstone/Week%202/lab_jupyter_fe_course_sim_solution.ipynb)
 <br/>
 
 - [Week 3]
