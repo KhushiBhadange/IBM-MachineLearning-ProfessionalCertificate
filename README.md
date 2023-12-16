@@ -108,16 +108,16 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Logistic Regression]
      - [Confusion Matrix, Accuracy, Specificity, Precision and Recall]
    - [Optional Lab]
-     - [Logistic Regression Demo]
-     - [Logistic Regression Practice]
+     - [Logistic Regression Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%201/03a/03a_LAB_Logistic_Regression_Error_Metrics.ipynb)
+     - [Logistic Regression Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%201/lab_jupyter_logistic_regression.ipynb)
 <br/>
 
 - [Week 2]
 
      - [K Nearest Neighbors]
    - [Optional Lab]
-     - [K Nearest Neighbors Demo]
-     - [K Nearest Neighbors Practice]
+     - [K Nearest Neighbors Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%202/03b_LAB_KNN.ipynb)
+     - [K Nearest Neighbors Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%202/lab_jupyter_knn.ipynb)
 <br/>
 
 - [Week 3]
@@ -126,8 +126,8 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Support Vector Machines Kernels]
      - [Support Vector Machine Workflow]
    - [Optional Lab]
-     - [Support Vector Machine Demo]
-     - [Support Vector Machine Practice]
+     - [Support Vector Machine Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%203/03c_DEMO_SVM.ipynb)
+     - [Support Vector Machine Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%203/lab_jupyter_svm.ipynb)
 <br/>
 
 - [Week 4]
@@ -135,8 +135,8 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Decision Trees]
      - [Entropy Based Splitting]
    - [Optional Lab]
-     - [Decision Trees Demo]
-     - [Decision Trees Practice]
+     - [Decision Trees Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%204/03d/03d_LAB_Decision_Trees.ipynb)
+     - [Decision Trees Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%204/lab_jupyter_decisiontree.ipynb)
 <br/>
 
 - [Week 5]
@@ -147,12 +147,12 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Adaboost and Gradient Boosting]
      - [Stacking]
    - [Optional Lab]
-     - [Bagging Demo]
-     - [Bagging Practice]
-     - [Boosting and Stacking Demo]
-     - [AdaBoost Practice]
-     - [Stacking Practice]
-     - [Gradient Boosting]
+     - [Bagging Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%205/03e/03e_DEMO_Bagging.ipynb)
+     - [Bagging Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%205/Bagging.ipynb)
+     - [Boosting and Stacking Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%205/03f/03f_LAB_Boosting_and_Stacking.ipynb)
+     - [AdaBoost Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%205/Ada_Boost.ipynb)
+     - [Stacking Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%205/Stackin__For_Classification_with_Python.ipynb)
+     - [Gradient Boosting](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%205/Gradient_Boosting.ipynb)
 <br/>
 
 - [Week 6]
@@ -163,8 +163,8 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Blagging]
      - [Random and Synthetic Oversampling]
    - [Optional Lab]
-     - [Model Interpretability Practice]
-     - [Model Imbalanced Classes]
+     - [Model Interpretability Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%206/lab_jupyter_model-explanations.ipynb)
+     - [Model Imbalanced Classes](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C3%20-%20Supervised%20Machine%20Learning%20Classification/Week%206/lab_jupyter_imbalanced_data.ipynb)
      - [Project]
 <br/>
 
