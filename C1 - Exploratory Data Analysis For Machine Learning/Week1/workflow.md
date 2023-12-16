@@ -145,10 +145,10 @@ In this kernel we are using the following packages:
 
 By the end of the section, you'll be able to answer these questions and more, while generating graphics that are both insightful and beautiful.  then We will review analytical and statistical operations:
 
-*   5-1 Data Collection
-*   5-2 Visualization
-*   5-3 Data Preprocessing
-*   5-4 Data Cleaning
+*   6-1 Data Collection
+*   6-2 Visualization
+*   6-3 Data Preprocessing
+*   6-4 Data Cleaning
 <img src="http://s9.picofile.com/file/8338476134/EDA.png">
 
 <a id="17"></a> <br>
