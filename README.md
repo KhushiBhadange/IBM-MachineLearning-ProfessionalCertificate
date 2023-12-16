@@ -20,8 +20,9 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Retrieving Data]
      - [Data Cleaning]
    - [Optional Labs]
-     - [Reading Data Demo]
-     - [Data Cleaning Practice]
+     - [Reading Data Demo1](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%202/01a/01a_DEMO_Reading_Data.ipynb)
+     - [Reading Data Demo2](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%202/01b/01b_LAB_Reading_Data.ipynb)
+     - [Data Cleaning Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%202/Data_Cleaning_Lab.ipynb)
 <br/>
 
 - [Week 3]
