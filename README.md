@@ -8,7 +8,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 
 ## Course 1 : [Exploratory Data Analysis for Machine Learning ](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning?specialization=ibm-machine-learning)
 
-- [Week 1]
+- [Week 1](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week1)
 
      - [Prerequisites](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week1/Prerequisites.md)
      - [Machine Learning and Deep Learning]
