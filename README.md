@@ -10,7 +10,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 
 - [Week 1]
 
-     - [Prerequisites]
+     - [Prerequisites](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week1/Prerequisites.md)
      - [Machine Learning and Deep Learning]
      - [Machine Learning Workflow]
 <br/>
