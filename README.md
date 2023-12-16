@@ -30,10 +30,10 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Exploratory Data Analysis]
      - [Feature Engineering]
    - [Optional Labs]
-     - [Exploratory Data Analysis Demo]
-     - [Exploratory Data Analysis Practice]
-     - [Feature Engineering Demo]
-     - [Feature Engineering Practice]
+     - [Exploratory Data Analysis Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%203/01c/01c_LAB_EDA.ipynb)
+     - [Exploratory Data Analysis Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%203/EDA_Lab.ipynb)
+     - [Feature Engineering Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%203/01d/01d_DEMO_Feature_Engineering.ipynb)
+     - [Feature Engineering Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%203/Feature_Engineering_Lab.ipynb)
 <br/>
 
 - [Week 4]
