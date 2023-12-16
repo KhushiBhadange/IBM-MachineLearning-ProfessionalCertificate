@@ -19,6 +19,7 @@ most of these books share the following steps (checklist):
  <img src="http://s9.picofile.com/file/8338227634/workflow.png" />
 
 **you should	feel free	to	adapt 	this	checklist 	to	your needs**
+<br/>
 ## 2-1 Real world Application Vs Competitions
 <img src="http://s9.picofile.com/file/8339956300/reallife.png" height="400" width="300" />
 <a id="3"></a> <br>
@@ -159,13 +160,6 @@ The rows being the samples and the columns being: Sepal Length, Sepal Width, Pet
 
 With interactive visualization, you can take the concept a step further by using technology to drill down into charts and graphs for more detail, interactively changing what data you see and how it’s processed.[SAS]
 
- In this section I show you  **11 plots** with **matplotlib** and **seaborn** that is listed in the blew picture:
- <img src="http://s8.picofile.com/file/8338475500/visualization.jpg" />
+In this section I show you  **11 plots** with **matplotlib** and **seaborn** that is listed in the blew picture:
+<img src="http://s8.picofile.com/file/8338475500/visualization.jpg" />
  
-you can follow me on:
-> ###### [ GitHub](https://github.com/mjbahmani)
-> ###### [LinkedIn](https://www.linkedin.com/in/bahmani/)
-> ###### [Kaggle](https://www.kaggle.com/mjbahmani/)
-
- 
- ## Please Fork the Repository to continue...
