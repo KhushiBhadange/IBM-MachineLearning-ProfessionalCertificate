@@ -68,7 +68,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 
 - [Week 3](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%203)
 
-     - [Cross Validation]
+     - [Cross Validation](https://www.javatpoint.com/cross-validation-in-machine-learning)
    - [Optional Lab]
      - [Cross Validation Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%203/02c_DEMO_Cross_Validation.ipynb)
      - [Cross Validation Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%203/Cross_Validation.ipynb)
