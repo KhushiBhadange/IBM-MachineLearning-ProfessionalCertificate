@@ -23,7 +23,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
      - [Data Cleaning Practice](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%202/Data_Cleaning_Lab.ipynb)
 <br/>
 
-- [Week 3]
+- [Week 3](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%203)
 
      - [Exploratory Data Analysis](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%203/KomorowskiEDA2016.pdf)
      - [Feature Engineering](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C1%20-%20Exploratory%20Data%20Analysis%20For%20Machine%20Learning/Week%203/featureengineeringformachinelearning_1ed.pdf)
