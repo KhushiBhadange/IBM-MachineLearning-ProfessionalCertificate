@@ -59,7 +59,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 
 - [Week 2](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/tree/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%202)
 
-     - [Training and Test Splits]
+     - [Training and Test Splits](https://machinelearningmastery.com/train-test-split-for-evaluating-machine-learning-algorithms/)
      - [Polynomial Regression](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%202/Chapter12-Regression-PolynomialRegression.pdf)
    - [Optional Lab]
      - [Training and Test Splits Demo](https://github.com/KhushiBhadange/IBM-MachineLearning-ProfessionalCertificate-Coursera/blob/master/C2%20-%20Supervised%20Machine%20Learning%20Regression/Week%202/02b_LAB_Regression_Train_Test_Split.ipynb)
