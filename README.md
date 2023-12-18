@@ -333,7 +333,7 @@ Contains Solutions and Notes for the [IBM Machine Learning Professional Certific
 
 - [Week 5]
 
-    - [Deploy Model]
+    - [ML Model Deployment](https://www.projectpro.io/article/machine-learning-model-deployment/872)
 <br/>
 
 - [Week 6]
