@@ -1,4 +1,4 @@
-# IBM Machine Learning Professional Certification Coursera
+# IBM Machine Learning Professional Certification 
 
 Contains Solutions and Notes for the [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning)
 
